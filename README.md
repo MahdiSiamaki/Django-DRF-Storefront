@@ -114,4 +114,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at [your_email@example.com].
+If you have any questions or suggestions, feel free to contact me at [siamaki.me@gmail.com].
